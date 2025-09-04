@@ -1,2 +1,13 @@
+# primer repositorio
+hola este es mi primer repositorio 
+
+
+# AL USAR COMPUADORES 
+    1. instalar git 
+    2. comandos 
+      git config --global user.name "martin"
+      git config --global user.email"martin.ubeda@gmail.com"
+
+
 # agenda de contactos
-proyecto simple de consola para registar, buscar y listar contactos usando pyton
+proyecto simple de consola para registar, buscar y listar contactos usando pyto
