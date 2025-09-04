@@ -1,5 +1,5 @@
 import agenda
-from agenda import agregar_contacto, listar_contactos, buscar_contacto
+from agenda import agregar_contacto, listar_contactos, buscar_contacto, contactos[]
 
 while True:
     print("Menu:")
@@ -12,16 +12,21 @@ while True:
     if c == '1':
         print("agregar contacto")
         nombre = input("ingresa el nombre :")
-        telefono = input("ingrese el telefono: ")
+        telefono = input("ingrese  el telefono: ")
         agregar_contacto(nombre,telefono)
         print("Contacto agregado")
-    elif c == '2':
+    if c == '2':
         listar_contactos()
-    elif c == '3':
+    if c == '3':
         nombre = input("ingresa el nombre a buscar: ")
         buscar_contacto(nombre)
-    elif c == '4':
+    if c == '4':
         print("saliendo...")
-        break
+        
+    
+
+        
+
+
 
 
