@@ -2,7 +2,7 @@
 hola este es mi primer repositorio 
 
 
-# AL USAR COMPUADORES 
+# AL USAR COMPutadores
     1. instalar git 
     2. comandos 
       git config --global user.name "martin"
