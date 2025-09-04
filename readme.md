@@ -11,3 +11,8 @@ hola este es mi primer repositorio
 
 # agenda de contactos
 proyecto simple de consola para registar, buscar y listar contactos usando pyto
+
+## agenda
+    se creo la definicion de agregar contactos
+    se creo la funcion de listar contactos
+
